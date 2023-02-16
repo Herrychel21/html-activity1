@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+.wrapper{
+    background-color: white ;
+    width: 120%;
+    height: 80px;
+}
+.cover{
+    background-color: white;
+    text-align: center;
+}
+.Home{
+    background-color: yellow;
+    width: 120%;
+    text-align: center;
+    border: 5px solid green;
+}
+ul{
+    border-collapse: collapse;
+    text-align: center;
+}
+li{
+    display: table;
+    margin-inline: 10px;
+    display: inline-block;
+    margin-bottom: 5px;
+   padding: 5x;
+   text-align: center;
+}
+.contentheader{
+    border: 5px solid red;
+    width: 280px;
+    height: 280px;
+    text-align: center;
+    float: left;
+    background: white;
+    margin-top: 20px;
+
+}
+
+
